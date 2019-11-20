@@ -1,3 +1,5 @@
+# 看下这里：   https://blog.csdn.net/Bs__Q/article/details/79769541
+
 # 基于Vue2.0的移动端项目
 
 > 基于Vue.js2.0的移动端APP
